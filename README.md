@@ -32,7 +32,7 @@
 >  .NET MAUI projects
 
 >#### 📫 How to reach me :  
->  discord: .eternalyouth
+>  discord: .eternalyouth  
 >  LinkedIn
 
 >#### 😄 Pronouns: he/him
