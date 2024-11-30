@@ -32,8 +32,8 @@
 >  .NET MAUI projects
 
 >#### 📫 How to reach me :  
->  discord: .eternalyouth  
->  <a href="https://www.linkedin.com/in/mareks-vasi%C4%BCevskis-187529270/"><p>LinkedIn</p></a>
+>  discord: .eternalyouth
+>  LinkedIn
 
 >#### 😄 Pronouns: he/him
 
